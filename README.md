@@ -37,11 +37,22 @@ O sistema é organizado de forma modular, separando a interface do usuário das 
 * **Camada de Domínio (Modelos):** Representa as entidades do negócio (Cliente, OS, Item).
 * **Camada de Infraestrutura:** Responsável pela comunicação com o banco de dados e mensageria.
 
-| Categoria | Diagrama |
+## 🏗 Arquitetura e Modelagem
+
+Para melhor visualização do sistema, os diagramas foram organizados por categoria abaixo.
+
+| Categoria | Diagramas |
 | :--- | :--- |
-| **Visão Geral** | [Arquitetura](./diagramas/diagrama_arquitetura.png) \| [Componentes](./diagramas/diagrama_componentes.png) \| [Implantação](./diagramas/diagrama_implantacao.png) |
-| **Comportamento** | [Casos de Uso](./diagramas/diagrama_caso_uso.png) \| [Estados](./diagramas/diagrama_estados.png) \| [Comunicação](./diagramas/diagrama_comunicacao.png) |
-| **Estrutura** | [Classes](./diagramas/diagrama_classes.png) \| [Modelo de Dados](./diagramas/modelo_dados.png) |
+| **Visão Geral** | <br>Arquitetura:<br>![Arquitetura](./diagramas/diagrama_arquitetura.png)<br><br>Componentes:<br>![Componentes](./diagramas/diagrama_componentes.png)<br><br>Implantação:<br>![Implantação](./diagramas/diagrama_implantacao.png) |
+| **Comportamento** | <br>Casos de Uso:<br>![Casos de Uso](./diagramas/diagrama_caso_uso.png)<br><br>Estados:<br>![Estados](./diagramas/diagrama_estados.png)<br><br>Comunicação:<br>![Comunicação](./diagramas/diagrama_comunicacao.png) |
+| **Estrutura** | <br>Classes:<br>![Classes](./diagramas/diagrama_classes.png)<br><br>Modelo de Dados:<br>![Modelo de Dados](./diagramas/modelo_dados.png) |
+
+### Fluxos de Sequência
+* [Abrir Ordem de Serviço](./diagramas/sequencia_abrir_os.png)
+* [Atualizar Status](./diagramas/sequencia_atualizar_status.png)
+* [Cadastrar Cliente](./diagramas/sequencia_cadastrar_cliente.png)
+* [Registrar Retirada](./diagramas/sequencia_registrar_retirada.png)
+* [Visão Geral do Sistema](./diagramas/sequencia_sistema.png)
 
 ### Fluxos de Sequência
 Os fluxos detalhados do sistema:
