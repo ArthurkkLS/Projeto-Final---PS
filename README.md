@@ -37,9 +37,22 @@ O sistema é organizado de forma modular, separando a interface do usuário das 
 * **Camada de Domínio (Modelos):** Representa as entidades do negócio (Cliente, OS, Item).
 * **Camada de Infraestrutura:** Responsável pela comunicação com o banco de dados e mensageria.
 
-*(Insira aqui os diagramas: Arquitetura, Componentes, Sequência, Estados e Comunicação)*
+| Categoria | Diagrama |
+| :--- | :--- |
+| **Visão Geral** | [Arquitetura](./diagramas/diagrama_arquitetura.png) \| [Componentes](./diagramas/diagrama_componentes.png) \| [Implantação](./diagramas/diagrama_implantacao.png) |
+| **Comportamento** | [Casos de Uso](./diagramas/diagrama_caso_uso.png) \| [Estados](./diagramas/diagrama_estados.png) \| [Comunicação](./diagramas/diagrama_comunicacao.png) |
+| **Estrutura** | [Classes](./diagramas/diagrama_classes.png) \| [Modelo de Dados](./diagramas/modelo_dados.png) |
+
+### Fluxos de Sequência
+Os fluxos detalhados do sistema:
+* [Abrir Ordem de Serviço](./diagramas/sequencia_abrir_os.png)
+* [Atualizar Status](./diagramas/sequencia_atualizar_status.png)
+* [Cadastrar Cliente](./diagramas/sequencia_cadastrar_cliente.png)
+* [Registrar Retirada](./diagramas/sequencia_registrar_retirada.png)
+* [Visão Geral do Sistema](./diagramas/sequencia_sistema.png)
 
 ---
+
 
 ## 💾 Estrutura de Dados
 O modelo de dados segue as boas práticas de normalização para garantir a consistência das informações.
@@ -55,7 +68,7 @@ O modelo de dados segue as boas práticas de normalização para garantir a cons
 ## 👥 Autores
 | 👤 Nome | 💼 Perfil |
 |---------|----------|
-| [Seu Nome] | [Link para Portfólio/LinkedIn] |
+| [Arthur Henrique de Lima Santos] | [[Link para GitHub](https://github.com/ArthurkkLS)] |
 
 ---
 
