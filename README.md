@@ -48,19 +48,22 @@ Para melhor visualização do sistema, os diagramas foram organizados por catego
 | **Estrutura** | <br>Classes:<br>![Classes](./diagramas/diagrama_classes.png)<br><br>Modelo de Dados:<br>![Modelo de Dados](./diagramas/modelo_dados.png) |
 
 ### Fluxos de Sequência
-* [Abrir Ordem de Serviço](./diagramas/sequencia_abrir_os.png)
-* [Atualizar Status](./diagramas/sequencia_atualizar_status.png)
-* [Cadastrar Cliente](./diagramas/sequencia_cadastrar_cliente.png)
-* [Registrar Retirada](./diagramas/sequencia_registrar_retirada.png)
-* [Visão Geral do Sistema](./diagramas/sequencia_sistema.png)
+Abaixo estão os diagramas que detalham os fluxos de trabalho do sistema:
 
-### Fluxos de Sequência
-Os fluxos detalhados do sistema:
-* [Abrir Ordem de Serviço](./diagramas/sequencia_abrir_os.png)
-* [Atualizar Status](./diagramas/sequencia_atualizar_status.png)
-* [Cadastrar Cliente](./diagramas/sequencia_cadastrar_cliente.png)
-* [Registrar Retirada](./diagramas/sequencia_registrar_retirada.png)
-* [Visão Geral do Sistema](./diagramas/sequencia_sistema.png)
+**1. Abrir Ordem de Serviço**
+![Abrir Ordem de Serviço](./diagramas/sequencia_abrir_os.png)
+
+**2. Atualizar Status**
+![Atualizar Status](./diagramas/sequencia_atualizar_status.png)
+
+**3. Cadastrar Cliente**
+![Cadastrar Cliente](./diagramas/sequencia_cadastrar_cliente.png)
+
+**4. Registrar Retirada**
+![Registrar Retirada](./diagramas/sequencia_registrar_retirada.png)
+
+**5. Visão Geral do Sistema**
+![Visão Geral do Sistema](./diagramas/sequencia_sistema.png)
 
 ---
 
